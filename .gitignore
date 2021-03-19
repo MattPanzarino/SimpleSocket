@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SimpleSocket/v16
+/SimpleSocket.vcxproj.user
+/SimpleSocket.vcxproj.filters
+/SimpleSocket.vcxproj
+/SimpleSocket.sln
